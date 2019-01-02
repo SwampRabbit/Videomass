@@ -49,14 +49,14 @@ def pyfind(line):
         #print hours, minutes, seconds
 
         i = line.index('time=')+5
-        print i
+        print (i)
         pos = line[i:i+8].split(':')
         hours, minutes, seconds = pos[0],pos[1],pos[2]
     #print hours, minutes, seconds
 
 
 #regex(line)
-pyfind(line)
+#pyfind(line)
 
 #from timeit import timeit
 #import re
@@ -121,31 +121,38 @@ def enc(filename, callback=None):
         #cmd = ('ffmpeg -i "%s"  -loglevel error -stats -vn -c:a pcm_s16le -threads 2 -y "%s.wav"')
         cmd = shlex.split('ffmpeg -i "%s" -loglevel error -stats -vcodec libx264 -crf 23 -threads auto -y "%s.mkv"' % (files, os.path.splitext(files)[0]))
         #cmd = ('ffmpeg -i "%s" -loglevel error -stats -vcodec libx264 -crf 23 -threads 2 -y "%s.mkv"' % (files, os.path.splitext(files)[0]))
-
+        
+        ####################################################
         #python3
-        #with subprocess.Popen(cmd, stderr=subprocess.PIPE, bufsize=1, universal_newlines=True) as p:
-            #for line in p.stderr:
-                ##print(line, end='')
+        with subprocess.Popen(cmd, 
+                              stderr=subprocess.PIPE, 
+                              bufsize=1, 
+                              universal_newlines=True) as p:
+            for line in p.stderr:
+                print (line, end='')
                 #sys.stdout.write(line)
                 #sys.stdout.flush()
-        #p.communicate()
-
-        
-        #python2
-        p = subprocess.Popen(cmd, stderr=subprocess.PIPE, 
-                             bufsize=1, universal_newlines=True
-                             )
-        with p.stderr:
-            for line in iter(p.stderr.readline, b''):
-                print line,
         err = p.wait()
         if err:
-           print 'ERROR'
+            print ('ERROR')
+
+        ######################################################
+        #python2
+        #p = subprocess.Popen(cmd, stderr=subprocess.PIPE, 
+                             #bufsize=1, universal_newlines=True
+                             #)
+        #with p.stderr:
+            #for line in iter(p.stderr.readline, b''):
+                #print (line),
+        #err = p.wait()
+        #if err:
+           #print ('ERROR')
+        #######################################################
 
 #encode('/media/Disco_Dati/Impiccalo Piu In Alto.ac3')
-#lista = ['/media/Disco_Dati/PROVA/joemorello exercise 22.mov', '/media/Disco_Dati/PROVA/joemorelloaround.mov']
+lista = ['/media/gianluca/DATI/PROVA/joemorello exercise 22.mo', '/media/gianluca/DATI/PROVA/joemorelloaround.mov']
 #lista = ['/media/Disco_Dati/PROVA/joemorelloaround.mov']
-#enc(lista)
+enc(lista)
 
 
 #li = 'frame= 2034 fps=169 q=28.0 size=    2646kB time=00:01:25.44 bitrate= 253.7kbits/s speed=7.08x\n\nframe= 2097 fps=166 q=-1.0 Lsize=    2865kB time=00:01:26.87 bitrate= 270.1kbits/s speed=6.86x '
