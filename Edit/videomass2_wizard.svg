@@ -16,7 +16,7 @@
    viewBox="0 0 256 256"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="videomass3.svg"
+   sodipodi:docname="videomass2_wizard.svg"
    inkscape:version="0.92.1 r15371"
    enable-background="new">
   <sodipodi:namedview
@@ -30,7 +30,7 @@
      inkscape:cx="77.517241"
      inkscape:cy="127.18677"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1026"
@@ -341,14 +341,14 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern4920"
+       id="pattern4805"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern4924">
+       id="pattern4809">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -363,7 +363,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path4922"
+         id="path4807"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -372,6 +372,489 @@
        xlink:href="#pattern5605"
        id="pattern5627"
        patternTransform="translate(239.48955,75.955027)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4812"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4814"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4818">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4816"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern5603"
+       patternTransform="translate(239.48955,51.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4821"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4825">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4823"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern5601"
+       patternTransform="translate(124.48955,46.000013)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4828"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4832">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4830"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern5599"
+       patternTransform="matrix(1.497761,0,0,1.497761,104.25786,6.000015)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4835"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4839">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4837"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern5695"
+       patternTransform="translate(214.48955,106.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern4842"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4844"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4846"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4850">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4848"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern5623"
+       patternTransform="matrix(0.99104371,0,0,0.99104371,219.48955,61.044996)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4853"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4855"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4859">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4857"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern5621"
+       patternTransform="translate(224.48955,85.955027)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4862"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4864"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4869">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4866"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern5619"
+       patternTransform="translate(219.48955,31.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4872"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4874"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4878">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4876"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern5617"
+       patternTransform="translate(179.48955,31.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4881"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4883"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4887">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4885"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5647"
+       id="pattern5669"
+       patternTransform="translate(179.48955,105.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern4890"
+       patternTransform="translate(33.000002,155.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern4892"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4894"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4896"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4900">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4898"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern5645"
+       patternTransform="translate(140,71.000013)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern4903"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4905"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4907"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4911">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4909"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern5643"
+       patternTransform="matrix(2.4271508,0,0,2.4271508,216.48956,124.66433)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern4914"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4916"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4918"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4922">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4920"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern5641"
+       patternTransform="translate(100,36.000013)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern4925"
+       patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
@@ -408,513 +891,30 @@
     </pattern>
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5603"
-       patternTransform="translate(239.48955,51.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern4936"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern4940">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path4938"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5601"
-       patternTransform="translate(124.48955,46.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern4943"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern4947">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path4945"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5599"
-       patternTransform="matrix(1.497761,0,0,1.497761,104.25786,6.000015)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern4950"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern4954">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path4952"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5695"
-       patternTransform="translate(214.48955,106.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern4957"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern4959"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern4961"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern4965">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path4963"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5623"
-       patternTransform="matrix(0.99104371,0,0,0.99104371,219.48955,61.044996)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern4968"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern4970"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern4974">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path4972"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5621"
-       patternTransform="translate(224.48955,85.955027)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern4977"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern4979"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern4983">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path4981"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5619"
-       patternTransform="translate(219.48955,31.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern4986"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern4988"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern4992">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path4990"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5617"
-       patternTransform="translate(179.48955,31.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern4995"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern4997"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5001">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path4999"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5669"
-       patternTransform="translate(179.48955,105.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5004"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5006"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5008"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5010"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5014">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5012"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5645"
-       patternTransform="translate(140,71.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5017"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5019"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5021"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5025">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5023"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5643"
-       patternTransform="matrix(2.4271508,0,0,2.4271508,216.48956,124.66433)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5028"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5030"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5032"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5036">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5034"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5641"
-       patternTransform="translate(100,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5039"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5041"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5043"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5047">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5045"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
        xlink:href="#pattern5625"
        id="pattern5639"
        patternTransform="translate(239.48955,110.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5050"
+       id="pattern4936"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5052"
+       id="pattern4938"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5054"
+       id="pattern4940"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5058">
+       id="pattern4944">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -929,7 +929,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5056"
+         id="path4942"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -942,6 +942,423 @@
        inkscape:collect="always"
        xlink:href="#pattern5647"
        id="pattern5667"
+       patternTransform="translate(34.48955,36.000013)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern4948"
+       patternTransform="translate(33.000002,155.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern4950"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4952"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4954"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4958">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4956"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5647"
+       id="pattern5665"
+       patternTransform="matrix(1.4757169,0,0,1.4932829,199.48955,31.00002)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern4961"
+       patternTransform="translate(33.000002,155.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern4963"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4965"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4967"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4971">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4969"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5647"
+       id="pattern5663"
+       patternTransform="translate(184.48955,86.000013)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern4974"
+       patternTransform="translate(33.000002,155.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern4976"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4978"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4980"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4984">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4982"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5647"
+       id="pattern5661"
+       patternTransform="matrix(1.4271508,0,0,1.4271508,160,51.70929)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern4987"
+       patternTransform="translate(33.000002,155.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern4989"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern4991"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern4993"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern4997">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path4995"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5667"
+       id="pattern5689"
+       patternTransform="matrix(0.99104408,0,0,0.99104408,159.48955,16.044994)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5647"
+       id="pattern5000"
+       patternTransform="translate(34.48955,36.000013)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern5002"
+       patternTransform="translate(33.000002,155.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern5004"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern5006"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern5008"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern5012">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path5010"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5667"
+       id="pattern5687"
+       patternTransform="translate(199.48955,70.955032)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5647"
+       id="pattern5015"
+       patternTransform="translate(34.48955,36.000013)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern5017"
+       patternTransform="translate(33.000002,155.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern5019"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern5021"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern5023"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern5027">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path5025"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5667"
+       id="pattern5685"
+       patternTransform="translate(124.48955,25.955032)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5647"
+       id="pattern5030"
+       patternTransform="translate(34.48955,36.000013)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern5032"
+       patternTransform="translate(33.000002,155.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern5034"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern5036"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern5038"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern5042">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path5040"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5667"
+       id="pattern5683"
+       patternTransform="translate(134.48955,6.000013)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5647"
+       id="pattern5045"
+       patternTransform="translate(34.48955,36.000013)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5625"
+       id="pattern5047"
+       patternTransform="translate(33.000002,155.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5605"
+       id="pattern5049"
+       patternTransform="translate(136.48955,140.95503)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5589"
+       id="pattern5051"
+       patternTransform="translate(69.489546,91.00001)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4868"
+       id="pattern5053"
+       patternTransform="translate(94.999998,106.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10.51045"
+       height="10.044981"
+       patternTransform="translate(197.36714,239.72753)"
+       id="pattern5057">
+      <path
+         inkscape:transform-center-y="-0.47745743"
+         transform="scale(-1)"
+         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.1991149"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="2.5"
+         sodipodi:r1="5"
+         sodipodi:cy="-5.499937"
+         sodipodi:cx="-5.2552252"
+         sodipodi:sides="5"
+         id="path5055"
+         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5667"
+       id="pattern5681"
+       patternTransform="matrix(1.497761,0,0,1.497761,219.48955,6.0000195)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5647"
+       id="pattern5060"
        patternTransform="translate(34.48955,36.000013)" />
     <pattern
        inkscape:collect="always"
@@ -989,457 +1406,40 @@
     </pattern>
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5665"
-       patternTransform="matrix(1.4757169,0,0,1.4932829,199.48955,31.00002)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5075"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5077"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5079"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5081"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5085">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5083"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5663"
-       patternTransform="translate(184.48955,86.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5088"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5090"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5092"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5094"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5098">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5096"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5661"
-       patternTransform="matrix(1.4271508,0,0,1.4271508,160,51.70929)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5101"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5103"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5105"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5107"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5111">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5109"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5689"
-       patternTransform="matrix(0.99104408,0,0,0.99104408,159.48955,16.044994)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5114"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5116"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5118"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5120"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5122"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5126">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5124"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5687"
-       patternTransform="translate(199.48955,70.955032)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5129"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5131"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5133"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5135"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5137"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5141">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5139"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5685"
-       patternTransform="translate(124.48955,25.955032)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5144"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5146"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5148"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5150"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5152"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5156">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5154"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5683"
-       patternTransform="translate(134.48955,6.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5159"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5161"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5163"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5165"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5167"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5171">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5169"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5681"
-       patternTransform="matrix(1.497761,0,0,1.497761,219.48955,6.0000195)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5174"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5176"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5178"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5180"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5182"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5186">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5184"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
        xlink:href="#pattern5659"
        id="pattern5761"
        patternTransform="translate(239.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5189"
+       id="pattern5075"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5191"
+       id="pattern5077"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5193"
+       id="pattern5079"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5195"
+       id="pattern5081"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5197"
+       id="pattern5083"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5201">
+       id="pattern5087">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -1454,7 +1454,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5199"
+         id="path5085"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -1471,34 +1471,34 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5205"
+       id="pattern5091"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5207"
+       id="pattern5093"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5209"
+       id="pattern5095"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5211"
+       id="pattern5097"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5213"
+       id="pattern5099"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5217">
+       id="pattern5103">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -1513,7 +1513,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5215"
+         id="path5101"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -1525,34 +1525,34 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5220"
+       id="pattern5106"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5222"
+       id="pattern5108"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5224"
+       id="pattern5110"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5226"
+       id="pattern5112"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5228"
+       id="pattern5114"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5232">
+       id="pattern5118">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -1567,7 +1567,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5230"
+         id="path5116"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -1584,34 +1584,34 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5236"
+       id="pattern5122"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5238"
+       id="pattern5124"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5240"
+       id="pattern5126"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5242"
+       id="pattern5128"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5244"
+       id="pattern5130"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5248">
+       id="pattern5134">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -1626,7 +1626,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5246"
+         id="path5132"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -1638,39 +1638,39 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5251"
+       id="pattern5137"
        patternTransform="translate(175,6.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5253"
+       id="pattern5139"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5255"
+       id="pattern5141"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5257"
+       id="pattern5143"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5259"
+       id="pattern5145"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5261"
+       id="pattern5147"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5265">
+       id="pattern5151">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -1685,7 +1685,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5263"
+         id="path5149"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -1697,39 +1697,39 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5268"
+       id="pattern5154"
        patternTransform="translate(175,6.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5270"
+       id="pattern5156"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5272"
+       id="pattern5158"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5274"
+       id="pattern5160"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5276"
+       id="pattern5162"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5278"
+       id="pattern5164"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5282">
+       id="pattern5168">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -1744,7 +1744,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5280"
+         id="path5166"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -1756,39 +1756,39 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5285"
+       id="pattern5171"
        patternTransform="translate(175,6.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5287"
+       id="pattern5173"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5289"
+       id="pattern5175"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5291"
+       id="pattern5177"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5293"
+       id="pattern5179"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5295"
+       id="pattern5181"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5299">
+       id="pattern5185">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -1803,7 +1803,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5297"
+         id="path5183"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -1815,39 +1815,39 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5302"
+       id="pattern5188"
        patternTransform="matrix(1.9910441,0,0,1.9910441,233.2814,6.00002)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5304"
+       id="pattern5190"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5306"
+       id="pattern5192"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5308"
+       id="pattern5194"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5310"
+       id="pattern5196"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5312"
+       id="pattern5198"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5316">
+       id="pattern5202">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -1862,7 +1862,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5314"
+         id="path5200"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -1874,39 +1874,39 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5319"
+       id="pattern5205"
        patternTransform="translate(125,101.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5321"
+       id="pattern5207"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5323"
+       id="pattern5209"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5325"
+       id="pattern5211"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5327"
+       id="pattern5213"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5329"
+       id="pattern5215"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5333">
+       id="pattern5219">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -1921,7 +1921,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5331"
+         id="path5217"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -1933,39 +1933,39 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5336"
+       id="pattern5222"
        patternTransform="translate(125,101.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5338"
+       id="pattern5224"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5340"
+       id="pattern5226"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5342"
+       id="pattern5228"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5344"
+       id="pattern5230"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5346"
+       id="pattern5232"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5350">
+       id="pattern5236">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -1980,7 +1980,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5348"
+         id="path5234"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -1992,39 +1992,39 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5353"
+       id="pattern5239"
        patternTransform="translate(125,101.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5355"
+       id="pattern5241"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5357"
+       id="pattern5243"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5359"
+       id="pattern5245"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5361"
+       id="pattern5247"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5363"
+       id="pattern5249"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5367">
+       id="pattern5253">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -2039,7 +2039,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5365"
+         id="path5251"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -2051,39 +2051,39 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5370"
+       id="pattern5256"
        patternTransform="translate(125,101.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5372"
+       id="pattern5258"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5374"
+       id="pattern5260"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5376"
+       id="pattern5262"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5378"
+       id="pattern5264"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5380"
+       id="pattern5266"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5384">
+       id="pattern5270">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -2098,7 +2098,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5382"
+         id="path5268"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -2110,39 +2110,39 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5387"
+       id="pattern5273"
        patternTransform="translate(125,101.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5389"
+       id="pattern5275"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5391"
+       id="pattern5277"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5393"
+       id="pattern5279"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5395"
+       id="pattern5281"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5397"
+       id="pattern5283"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5401">
+       id="pattern5287">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -2157,7 +2157,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5399"
+         id="path5285"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -2169,44 +2169,44 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5759"
-       id="pattern5404"
+       id="pattern5290"
        patternTransform="translate(124.48955,100.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5406"
+       id="pattern5292"
        patternTransform="translate(125,101.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5408"
+       id="pattern5294"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5410"
+       id="pattern5296"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5412"
+       id="pattern5298"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5414"
+       id="pattern5300"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5416"
+       id="pattern5302"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5420">
+       id="pattern5306">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -2221,7 +2221,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5418"
+         id="path5304"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -2233,44 +2233,44 @@
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5759"
-       id="pattern5423"
+       id="pattern5309"
        patternTransform="translate(124.48955,100.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5659"
-       id="pattern5425"
+       id="pattern5311"
        patternTransform="translate(125,101.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5647"
-       id="pattern5427"
+       id="pattern5313"
        patternTransform="translate(172.48955,7.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5625"
-       id="pattern5429"
+       id="pattern5315"
        patternTransform="translate(33.000002,155.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5605"
-       id="pattern5431"
+       id="pattern5317"
        patternTransform="translate(136.48955,140.95503)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern5589"
-       id="pattern5433"
+       id="pattern5319"
        patternTransform="translate(69.489546,91.00001)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern4868"
-       id="pattern5435"
+       id="pattern5321"
        patternTransform="translate(94.999998,106.00001)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="10.51045"
        height="10.044981"
        patternTransform="translate(197.36714,239.72753)"
-       id="pattern5439">
+       id="pattern5325">
       <path
          inkscape:transform-center-y="-0.47745743"
          transform="scale(-1)"
@@ -2285,2022 +2285,7 @@
          sodipodi:cy="-5.499937"
          sodipodi:cx="-5.2552252"
          sodipodi:sides="5"
-         id="path5437"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5763"
-       id="pattern5441"
-       patternTransform="translate(174.48955,5.955029)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5443"
-       patternTransform="translate(175,6.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5445"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5447"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5449"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5451"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5453"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5457">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5455"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5459"
-       patternTransform="translate(194.48955,15.955029)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5461"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5465">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5463"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5467"
-       patternTransform="translate(239.48955,75.955027)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5469"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5471"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5475">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5473"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5477"
-       patternTransform="translate(239.48955,51.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5479"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5483">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5481"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5485"
-       patternTransform="translate(124.48955,46.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5487"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5491">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5489"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5493"
-       patternTransform="matrix(1.497761,0,0,1.497761,104.25786,6.000015)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5495"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5499">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5497"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5501"
-       patternTransform="translate(214.48955,106.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5503"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5505"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5507"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5511">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5509"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5513"
-       patternTransform="matrix(0.99104371,0,0,0.99104371,219.48955,61.044996)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5515"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5517"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5521">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5519"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5523"
-       patternTransform="translate(224.48955,85.955027)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5525"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5527"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5531">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5529"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5533"
-       patternTransform="translate(219.48955,31.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5535"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5537"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5541">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5539"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5543"
-       patternTransform="translate(179.48955,31.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5545"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5547"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5551">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5549"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5553"
-       patternTransform="translate(179.48955,105.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5555"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5557"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5559"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5561"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5565">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5563"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5567"
-       patternTransform="translate(140,71.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5569"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5571"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5573"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5577">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5575"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5579"
-       patternTransform="matrix(2.4271508,0,0,2.4271508,216.48956,124.66433)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5581"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5583"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5585"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5590">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5587"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5592"
-       patternTransform="translate(100,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5594"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5596"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5598"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5602">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5600"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5604"
-       patternTransform="translate(239.48955,110.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5606"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5608"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5610"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5614">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5612"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5616"
-       patternTransform="translate(239.48955,21.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5618"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5620"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5622"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5624"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5626"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5630">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5628"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5632"
-       patternTransform="matrix(1.4757169,0,0,1.4932829,199.48955,31.00002)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5634"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5636"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5638"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5640"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5644">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5642"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5646"
-       patternTransform="translate(184.48955,86.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5648"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5650"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5652"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5654"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5658">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5656"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5660"
-       patternTransform="matrix(1.4271508,0,0,1.4271508,160,51.70929)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5662"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5664"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5666"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5668"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5672">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5670"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5674"
-       patternTransform="matrix(0.99104408,0,0,0.99104408,159.48955,16.044994)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5676"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5678"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5680"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5682"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5684"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5688">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5686"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5690"
-       patternTransform="translate(199.48955,70.955032)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5692"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5694"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5696"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5698"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5700"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5704">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5702"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5706"
-       patternTransform="translate(124.48955,25.955032)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5708"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5710"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5712"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5714"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5716"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5720">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5718"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5722"
-       patternTransform="translate(134.48955,6.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5724"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5726"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5728"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5730"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5732"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5736">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5734"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5667"
-       id="pattern5738"
-       patternTransform="matrix(1.497761,0,0,1.497761,219.48955,6.0000195)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5740"
-       patternTransform="translate(34.48955,36.000013)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5742"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5744"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5746"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5748"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5752">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5750"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5754"
-       patternTransform="translate(239.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5756"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5758"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5760"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5762"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5764"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5768">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5766"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5759"
-       id="pattern5770"
-       patternTransform="translate(124.48955,100.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5772"
-       patternTransform="translate(125,101.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5774"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5776"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5778"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5780"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5782"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5786">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5784"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5788"
-       patternTransform="translate(85.000002,71.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5790"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5792"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5794"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5796"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5798"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5802">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5800"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5755"
-       id="pattern5804"
-       patternTransform="matrix(1.9910441,0,0,1.9910441,230.00001,6.00002)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5806"
-       patternTransform="matrix(1.9910441,0,0,1.9910441,233.2814,6.00002)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5808"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5810"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5812"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5814"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5816"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5820">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5818"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5763"
-       id="pattern5822"
-       patternTransform="translate(70,11.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5824"
-       patternTransform="translate(175,6.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5826"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5828"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5830"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5832"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5834"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5838">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5836"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5763"
-       id="pattern5840"
-       patternTransform="translate(64.489548,31.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5842"
-       patternTransform="translate(175,6.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5844"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5846"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5848"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5850"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5852"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5856">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5854"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5763"
-       id="pattern5858"
-       patternTransform="matrix(1.9028679,0,0,1.9028679,40.000003,51.885752)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5860"
-       patternTransform="translate(175,6.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5862"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5864"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5866"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5868"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5870"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5874">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5872"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5755"
-       id="pattern5876"
-       patternTransform="matrix(1.9910441,0,0,1.9910441,139.07324,126.00002)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5878"
-       patternTransform="matrix(1.9910441,0,0,1.9910441,233.2814,6.00002)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5880"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5882"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5884"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5886"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5888"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5892">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5890"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5759"
-       id="pattern5894"
-       patternTransform="translate(29.489548,145.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5896"
-       patternTransform="translate(125,101.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5898"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5900"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5902"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5904"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5906"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5910">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5908"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5759"
-       id="pattern5912"
-       patternTransform="translate(94.489548,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5914"
-       patternTransform="translate(125,101.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5916"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5918"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5920"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5922"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5924"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5928">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5926"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5759"
-       id="pattern5930"
-       patternTransform="translate(65,105.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5932"
-       patternTransform="translate(125,101.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5934"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5936"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5938"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5940"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5942"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5946">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5944"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5759"
-       id="pattern5948"
-       patternTransform="translate(20,86.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5950"
-       patternTransform="translate(125,101.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5952"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5954"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5956"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5958"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5960"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5964">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5962"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5759"
-       id="pattern5966"
-       patternTransform="translate(229.48955,180.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5968"
-       patternTransform="translate(125,101.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5970"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5972"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5974"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5976"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5978"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern5982">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path5980"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5809"
-       id="pattern5984"
-       patternTransform="translate(65.000002,186.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5759"
-       id="pattern5986"
-       patternTransform="translate(124.48955,100.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern5988"
-       patternTransform="translate(125,101.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern5990"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern5992"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern5994"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern5996"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern5998"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern6002">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path6000"
-         style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         sodipodi:type="star" />
-    </pattern>
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5809"
-       id="pattern6004"
-       patternTransform="translate(150,186.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5759"
-       id="pattern6006"
-       patternTransform="translate(124.48955,100.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5659"
-       id="pattern6008"
-       patternTransform="translate(125,101.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5647"
-       id="pattern6010"
-       patternTransform="translate(172.48955,7.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5625"
-       id="pattern6012"
-       patternTransform="translate(33.000002,155.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5605"
-       id="pattern6014"
-       patternTransform="translate(136.48955,140.95503)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern5589"
-       id="pattern6016"
-       patternTransform="translate(69.489546,91.00001)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4868"
-       id="pattern6018"
-       patternTransform="translate(94.999998,106.00001)" />
-    <pattern
-       patternUnits="userSpaceOnUse"
-       width="10.51045"
-       height="10.044981"
-       patternTransform="translate(197.36714,239.72753)"
-       id="pattern6022">
-      <path
-         inkscape:transform-center-y="-0.47745743"
-         transform="scale(-1)"
-         d="m -5.255225,-0.49993706 -1.4694634,-2.97745754 -3.2858196,-0.4774574 2.3776416,-2.3176276 -0.5612852,-3.2725424 2.9389265,1.5450849 2.9389261,-1.545085 -0.5612849,3.2725427 2.37764134,2.3176272 -3.28581954,0.4774577 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.1991149"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="2.5"
-         sodipodi:r1="5"
-         sodipodi:cy="-5.499937"
-         sodipodi:cx="-5.2552252"
-         sodipodi:sides="5"
-         id="path6020"
+         id="path5323"
          style="display:inline;opacity:1;fill:#edd400;fill-opacity:1;fill-rule:nonzero;stroke:#edd400;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          sodipodi:type="star" />
     </pattern>
@@ -4313,7 +2298,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4321,7 +2306,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="sfondo"
-     style="display:inline">
+     style="display:none">
     <rect
        style="display:inline;opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:7.00387716;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:17.60000038;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97647059;paint-order:stroke fill markers"
        id="rect4568-3"
@@ -4372,7 +2357,7 @@
        id="path4515"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:0.591;fill:#3983d5;fill-opacity:1;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#3465a4;fill-opacity:1;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.548"
        d="m 39,126 c 0,0 20.52327,-54.744293 44,-55 47.79768,-0.52061 44.20598,110.78791 92,110 23.26818,-0.38359 43,-55 43,-55"
        id="path4563"
        inkscape:connector-curvature="0"
@@ -4389,7 +2374,7 @@
        d="M 2.069319,103.83983 H 33.099072 A 85.887249,98.679685 88.352449 0 1 69.429958,62.490983 L 72.914823,74.529541 119.92565,33.792702 56.549123,18 61.453971,34.942086 A 128.2911,113.72686 0.454192 0 0 2.069319,103.83983 Z m 130.943061,129.2889 63.3746,15.7909 -5.18649,-17.92027 a 128.2911,113.72686 0.454192 0 0 57.58394,-66.53884 h -32.21664 a 85.887249,98.679685 88.352449 0 1 -33.7862,37.46714 l -2.76031,-9.5339 z"
        style="display:inline;opacity:0.597;fill:#000000;fill-opacity:0.96946561;stroke:none;stroke-width:0.9747355;filter:url(#filter4533)" />
     <path
-       style="display:inline;fill:#3a6fb4;fill-opacity:0.96946561;stroke:#000000;stroke-width:0.97500002;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:#5eb907;fill-opacity:0.96946561;stroke:#000000;stroke-width:0.975;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 4.0693194,97.839825 H 35.099072 A 85.887249,98.679685 88.352449 0 1 71.429958,56.490983 L 74.914823,68.529541 121.92565,27.792702 58.549123,12 63.453971,28.942086 A 128.2911,113.72686 0.454192 0 0 4.0693194,97.839825 Z M 135.01238,227.12873 l 63.3746,15.7909 -5.18649,-17.92027 a 128.2911,113.72686 0.454192 0 0 57.58394,-66.53884 h -32.21664 a 85.887249,98.679685 88.352449 0 1 -33.7862,37.46714 l -2.76031,-9.5339 z"
        id="path4664-6"
        inkscape:connector-curvature="0" />
@@ -4411,7 +2396,7 @@
      id="layer6"
      inkscape:label="stelle">
     <g
-       transform="translate(-3.999991,4.000001)"
+       transform="translate(-4,4.000001)"
        id="g5864"
        style="display:inline;stroke:none">
       <rect
