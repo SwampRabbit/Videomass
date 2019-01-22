@@ -11,7 +11,7 @@
    viewBox="0 0 48 48"
    enable-background="new 0 0 48 48"
    id="svg12"
-   sodipodi:docname="preview.svg"
+   sodipodi:docname="resetfilters.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata18">
@@ -47,10 +47,10 @@
      inkscape:window-width="1877"
      inkscape:window-height="904"
      id="namedview14"
-     showgrid="false"
-     inkscape:zoom="11.42"
-     inkscape:cx="-9.7117804"
-     inkscape:cy="23.592332"
+     showgrid="true"
+     inkscape:zoom="13.12"
+     inkscape:cx="25.337548"
+     inkscape:cy="26.579649"
      inkscape:window-x="41"
      inkscape:window-y="49"
      inkscape:window-maximized="0"
@@ -66,40 +66,4 @@
      d="M 24,47 V 3"
      id="path4488"
      inkscape:connector-curvature="0" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Layer 1"
-     style="display:none">
-    <rect
-       style="opacity:1;fill:#81d3ad;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect4509"
-       width="48"
-       height="47"
-       x="0"
-       y="1"
-       ry="1.5" />
-  </g>
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.45208549;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-     d="M 6.799,2 V 24 46 L 24.099781,35 41.400562,24 24.099781,13 Z m 7,12.916016 7.15039,4.544922 7.150391,4.546874 -7.150391,4.546876 -7.15039,4.544921 v -9.091797 z"
-     id="path4533" />
-  <path
-     sodipodi:type="star"
-     style="opacity:1;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.1400001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-     id="path4496"
-     sodipodi:sides="3"
-     sodipodi:cx="24.616524"
-     sodipodi:cy="24"
-     sodipodi:r1="12.083046"
-     sodipodi:r2="6.041523"
-     sodipodi:arg1="2.0943951"
-     sodipodi:arg2="3.1415927"
-     inkscape:flatsided="false"
-     inkscape:rounded="1.04083e-17"
-     inkscape:randomized="0"
-     d="m 18.575001,34.464225 0,-10.464225 0,-10.464225 9.062284,5.232113 L 36.69957,24 27.637285,29.232113 Z"
-     inkscape:transform-center-x="-2.4041667"
-     transform="matrix(0.79588096,0,0,1,-1.1087076,0)" />
 </svg>
