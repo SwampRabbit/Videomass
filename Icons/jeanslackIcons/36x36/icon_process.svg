@@ -15,7 +15,7 @@
    viewBox="0 0 256 256"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="videomass2_nuovo.svg"
+   sodipodi:docname="icon_process.svg"
    inkscape:version="0.92.1 r15371"
    enable-background="new">
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.88"
-     inkscape:cx="153.53283"
+     inkscape:cx="46.617936"
      inkscape:cy="153.04884"
      inkscape:document-units="px"
      inkscape:current-layer="g4738"
@@ -235,7 +235,7 @@
      id="g4738"
      inkscape:groupmode="layer">
     <path
-       style="opacity:1;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.1861403;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.1861403;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 63.063189,37.493569 C 20.125886,69.504278 4.487043,124.42039 26.403132,166.22753 16.625418,127.16655 34.122909,83.309694 70.226738,56.386399 112.6449,24.831716 149.50177,41.753924 166.99201,55.000043 l -14.42444,15.794339 33.88063,-0.481433 33.88144,-0.484004 -8.10511,-27.740776 -8.10335,-27.742094 -14.82749,16.236108 C 164.19737,7.490355 106.29012,5.33725 63.063189,37.493569 Z"
        id="path4527"
        inkscape:connector-curvature="0" />
@@ -243,7 +243,7 @@
        inkscape:connector-curvature="0"
        id="path4537"
        d="m 194.56117,216.89138 c 42.25467,-32.90654 56.73525,-88.13937 33.94486,-129.476395 10.59694,38.846725 -5.97443,83.061855 -41.50411,110.738385 -41.74524,32.43969 -78.9498,16.29629 -96.71472,3.42089 l 14.08912,-16.09417 -33.863013,1.19378 -33.86377,1.19637 8.686667,27.56421 L 54.021139,243 68.50393,226.45569 c 25.57636,22.55899 83.51607,23.49391 126.05724,-9.56431 z"
-       style="opacity:1;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.1861403;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="opacity:1;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.1861403;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
   <g
      inkscape:groupmode="layer"
