@@ -16,7 +16,7 @@
    viewBox="0 0 256 256"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="videomass2_nuovo.svg"
+   sodipodi:docname="icon_help.svg"
    inkscape:version="0.92.1 r15371"
    enable-background="new">
   <sodipodi:namedview
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.63"
-     inkscape:cx="-46.409139"
-     inkscape:cy="220.87778"
+     inkscape:cx="-105.79141"
+     inkscape:cy="199.44816"
      inkscape:document-units="px"
      inkscape:current-layer="g4738"
      showgrid="false"
@@ -47,6 +47,18 @@
   </sodipodi:namedview>
   <defs
      id="defs4485">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4534">
+      <stop
+         style="stop-color:#204a87;stop-opacity:1;"
+         offset="0"
+         id="stop4530" />
+      <stop
+         style="stop-color:#204a87;stop-opacity:0;"
+         offset="1"
+         id="stop4532" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4776">
@@ -70,18 +82,6 @@
          style="stop-color:#000000;stop-opacity:0;"
          offset="1"
          id="stop4766" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4726">
-      <stop
-         style="stop-color:#182d4b;stop-opacity:1;"
-         offset="0"
-         id="stop4722" />
-      <stop
-         style="stop-color:#182d4b;stop-opacity:0;"
-         offset="1"
-         id="stop4724" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -284,16 +284,6 @@
        gradientTransform="matrix(0.96355055,0,0,1.1541058,-39.56146,65.09846)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4726"
-       id="linearGradient4728"
-       x1="74.465725"
-       y1="112.22073"
-       x2="113.15661"
-       y2="111.52143"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1524083,0,0,1.1524083,-37.669107,-0.56806744)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4768"
        id="linearGradient4770"
        x1="109.27537"
@@ -309,6 +299,15 @@
        y1="140.73282"
        x2="197.92799"
        y2="140.73282"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4534"
+       id="linearGradient4536"
+       x1="59.802258"
+       y1="128.54994"
+       x2="83.465892"
+       y2="129.16344"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
@@ -383,12 +382,12 @@
        inkscape:connector-curvature="0"
        id="path4704"
        d="m 48.770521,10.0354 c 6.27646,15.090182 32.635015,28.40789 32.635015,28.40789 1.141449,1.19105 2.060356,0.416547 2.060356,1.05992 v 208.49256 c 0,0.64337 -0.918907,0.20248 -2.060356,-0.98857 0,0 -27.349172,-18.42734 -31.199378,-32.55561 -0.332342,-1.2195 -2.060342,-2.66786 -2.060342,-3.31122 V 11.40176 c 0,-0.643376 0.624705,-1.36636 0.624705,-1.36636 z"
-       style="display:inline;opacity:1;fill:url(#linearGradient4728);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.50539017;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="display:inline;opacity:1;fill:url(#linearGradient4536);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.50539017;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text4782"
        y="225.35321"
        x="100.01403"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:223.63493347px;line-height:4.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:4.65906143;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:223.63493347px;line-height:4.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:4.65906143;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:4.65906143;stroke-opacity:1"
          y="225.35321"
@@ -397,7 +396,7 @@
          sodipodi:role="line">?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:223.63493347px;line-height:4.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.65906143;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:223.63493347px;line-height:4.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.65906143;stroke-opacity:1"
        x="106.01403"
        y="221.35321"
        id="text4740"><tspan
