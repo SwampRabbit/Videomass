@@ -11,7 +11,7 @@
    viewBox="0 0 48 48"
    enable-background="new 0 0 48 48"
    id="svg12"
-   sodipodi:docname="preview.svg"
+   sodipodi:docname="playfilters.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
      id="metadata18">
@@ -48,9 +48,9 @@
      inkscape:window-height="904"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="11.42"
+     inkscape:zoom="15.07"
      inkscape:cx="9.704028"
-     inkscape:cy="23.592332"
+     inkscape:cy="24"
      inkscape:window-x="41"
      inkscape:window-y="49"
      inkscape:window-maximized="0"
@@ -81,8 +81,13 @@
        ry="1.5" />
   </g>
   <path
+     style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:9.73713684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 11.72234,2.92427 v 11.666887 l 12.534732,9.472174 -12.534732,9.465 V 45.2 L 12.685815,44.47082 39.69657,24.058549 12.683423,3.6510596 Z"
+     id="path4489"
+     inkscape:connector-curvature="0" />
+  <path
      sodipodi:type="star"
-     style="opacity:1;fill:#8ae234;fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1.575243;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+     style="opacity:1;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#ef2929;stroke-width:1.575243;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
      id="path4496"
      sodipodi:sides="3"
      sodipodi:cx="24.616524"
@@ -95,11 +100,6 @@
      inkscape:rounded="1.04083e-17"
      inkscape:randomized="0"
      d="m 18.575001,34.464225 0,-10.464225 0,-10.464225 9.062284,5.232113 L 36.69957,24 27.637285,29.232113 Z"
-     inkscape:transform-center-x="-2.4168144"
-     transform="matrix(0.80006791,0,0,1,-2.2311113,-6.5994252)" />
-  <path
-     style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:6.9017334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 23.298434,2.1299496 -0.0014,8.2703264 8.887325,6.711485 -11.134575,8.41544 -2.110558,1.595148 c -0.02751,0.02338 -0.04307,0.05989 -0.07185,0.08162 L 4.837,37.808051 4.83701,46.05 23.980752,31.581273 43.126,17.115969 23.982097,2.6468892 Z"
-     id="path4489"
-     inkscape:connector-curvature="0" />
+     inkscape:transform-center-x="-3.4097015"
+     transform="matrix(1.1287557,0,0,-1.4108249,-12.177606,57.883041)" />
 </svg>
