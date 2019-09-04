@@ -1,0 +1,7 @@
+Dal momento che crei Videomass.exe con py2exe, quando non presente, è
+importante includere anche Videomass2.exe.log all'interno della cartella
+dist, altrimenti , quando compili l'installer con INNO SETUP e lanci l'applicazione ottenuta, se avvengono degli errori esce permission denied
+riferito al log.
+
+Il file Videomass2CompileINNO_SETUP.iss non devi includerlo per nessun 
+motivi nell'installer. Tienilo esterno e lancialo quando devi compilare l'installer. Potrebbe essere necessario modificarlo.
