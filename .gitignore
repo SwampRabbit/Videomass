@@ -1,12 +1,19 @@
 #Files mentioned in this file will be ignored by git
 *.pyc
+*.log
+*.mbtree
 dist
 build
+videomass.egg-info
 deb_dist
-ENV_0
+*.tar.gz
+ENV
+env
 *.egg-info
 Pipfile
 Pipfile.lock
 *.DS_Store
 *.directory
+.kate-swp
 *~
+

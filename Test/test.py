@@ -111,7 +111,7 @@ def pyfind(line):
 #encode(lista)
 ###############################################################################
 
-#J.F. Sebastian's method 
+#J.F. Sebastian's method
 def enc(filename, callback=None):
     #cmd = ('ffmpeg -i "%s" -acodec libfaac -ab 128kb ' + \
           #'-vcodec mpeg4 -b 1200kb -mbd 2 -flags +4mv ' + \
@@ -121,12 +121,12 @@ def enc(filename, callback=None):
         #cmd = ('ffmpeg -i "%s"  -loglevel error -stats -vn -c:a pcm_s16le -threads 2 -y "%s.wav"')
         cmd = shlex.split('ffmpeg -i "%s" -loglevel error -stats -vcodec libx264 -crf 23 -threads auto -y "%s.mkv"' % (files, os.path.splitext(files)[0]))
         #cmd = ('ffmpeg -i "%s" -loglevel error -stats -vcodec libx264 -crf 23 -threads 2 -y "%s.mkv"' % (files, os.path.splitext(files)[0]))
-        
+
         ####################################################
         #python3
-        with subprocess.Popen(cmd, 
-                              stderr=subprocess.PIPE, 
-                              bufsize=1, 
+        with subprocess.Popen(cmd,
+                              stderr=subprocess.PIPE,
+                              bufsize=1,
                               universal_newlines=True) as p:
             for line in p.stderr:
                 print (line, end='')
@@ -138,7 +138,7 @@ def enc(filename, callback=None):
 
         ######################################################
         #python2
-        #p = subprocess.Popen(cmd, stderr=subprocess.PIPE, 
+        #p = subprocess.Popen(cmd, stderr=subprocess.PIPE,
                              #bufsize=1, universal_newlines=True
                              #)
         #with p.stderr:
@@ -161,7 +161,7 @@ enc(lista)
 
 ###############################################################################
 
-#cmnd = ['ffmpeg', '-i', files, 'opopo', '-af', 'volumedetect', 
+#cmnd = ['ffmpeg', '-i', files, 'opopo', '-af', 'volumedetect',
         #'-vn', '-sn', '-dn', '-f', 'null', '/dev/null']
 
 #cmnd = ['ffmpeg -i %s opo -af volumedetect -vn -sn -dn -f null /dev/null' % files]
@@ -182,7 +182,7 @@ enc(lista)
 
 #if p.returncode:
     #print error
-    
+
 #if error != '':
     #print 'si'
 
@@ -214,7 +214,7 @@ enc(lista)
 #FFmpegtxt = ''
 
 #FFmpegtxt = """
-#ffmpeg -i '/media/Disco_Dati/butta.wav' -loglevel info -af volume=4.7dB -c:v  -c:a libmp3lame -threads 2 -y '/media/Disco_Dati/joemorello exercise 22.mp4'    
+#ffmpeg -i '/media/Disco_Dati/butta.wav' -loglevel info -af volume=4.7dB -c:v  -c:a libmp3lame -threads 2 -y '/media/Disco_Dati/joemorello exercise 22.mp4'
 #ffmpeg version 3.2.12-1~deb9u1 Copyright (c) 2000-2018 the FFmpeg developers
   #built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
   #configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
@@ -251,7 +251,7 @@ enc(lista)
 #try:
     #if status_run:
         #print ('\n ..Interrupted Process!\n')
-        
+
     #elif not status_run:
         #for err in err_list:
             #if err in FFmpegtxt:
@@ -263,11 +263,11 @@ enc(lista)
 
     #else:
         #print ('\n *** Process successfully! ***\n')
-        
+
 #except IndexError:
     #e = '\n ..Unrecognized Error\n (See FFmpeg text above)\n'
     #print (e)
-    
+
 #else:# viene sempre eseguito anche se errore
     #print 'sys.stdout.flush()'
 
