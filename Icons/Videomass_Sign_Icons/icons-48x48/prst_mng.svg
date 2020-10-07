@@ -30,15 +30,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.86"
-     inkscape:cx="53.434573"
+     inkscape:cx="146.00477"
      inkscape:cy="143.53829"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:grid-bbox="true"
      inkscape:measure-start="0,0"
@@ -181,7 +181,7 @@
        y="211"
        ry="3.6334164" />
     <path
-       style="opacity:1;fill:#ff6349;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.82322001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.82322001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 227.92188,26.230506 -9.86105,14.517051 22.07108,14.992329 9.86106,-14.517056 z m -13.8055,20.323872 -61.13857,90.005742 -4.1468,17.97592 -4.14686,17.97594 15.18239,-10.47978 15.18241,-10.47975 61.13855,-90.005728 z"
        id="rect4492"
        inkscape:connector-curvature="0" />
@@ -210,29 +210,4 @@
        d="M 5.6993006,144.29662 H 41.949299 l 18.125002,66.41554 36.250003,-92.98175 18.124996,63.81429 h 36.25"
        style="fill:none;stroke:#88aa00;stroke-width:11.76078987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer8"
-     inkscape:label="sfumata"
-     style="display:inline;opacity:1" />
-  <g
-     style="display:inline"
-     inkscape:label="sfondo copia"
-     id="g4550"
-     inkscape:groupmode="layer" />
-  <g
-     id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="film strip"
-     style="display:inline;opacity:0.95400002" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="ffmpeg"
-     style="display:inline;opacity:1" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="audio"
-     style="display:inline;opacity:0.76099997" />
 </svg>
